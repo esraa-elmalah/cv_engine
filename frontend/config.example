@@ -1,0 +1,8 @@
+# CV Engine Frontend Configuration
+API_BASE_URL=http://127.0.0.1:8000
+
+# Optional: Override default port
+# FRONTEND_PORT=7860
+
+# Note: This frontend connects to the CV Engine backend
+# Make sure the backend is running before starting the frontend

@@ -1,0 +1,217 @@
+# Python (Backend)
+backend/__pycache__/
+backend/*.py[cod]
+backend/*$py.class
+backend/*.so
+backend/.Python
+backend/build/
+backend/develop-eggs/
+backend/dist/
+backend/downloads/
+backend/eggs/
+backend/.eggs/
+backend/lib/
+backend/lib64/
+backend/parts/
+backend/sdist/
+backend/var/
+backend/wheels/
+backend/share/python-wheels/
+backend/*.egg-info/
+backend/.installed.cfg
+backend/*.egg
+backend/MANIFEST
+
+# Virtual environments
+backend/venv/
+backend/env/
+backend/ENV/
+backend/env.bak/
+backend/venv.bak/
+backend/.venv/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+backend/.env
+backend/.env.local
+backend/.env.development.local
+backend/.env.test.local
+backend/.env.production.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing (Backend)
+backend/.pytest_cache/
+backend/.coverage
+backend/htmlcov/
+backend/.tox/
+backend/.nox/
+backend/coverage.xml
+backend/*.cover
+backend/*.py,cover
+backend/.hypothesis/
+
+# Logs
+*.log
+logs/
+backend/logs/
+
+# Data files
+backend/data/cvs/*.pdf
+backend/data/index/*.bin
+backend/data/index/*.pkl
+backend/data/index/processed_files.txt
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# API keys and secrets
+secrets.json
+config.json
+api_keys.txt
+backend/secrets.json
+backend/config.json
+backend/api_keys.txt
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# poetry
+poetry.lock
+
+# mypy
+backend/.mypy_cache/
+backend/.dmypy.json
+backend/dmypy.json
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Pyre type checker
+.pyre/
+
+# pytype static type analyzer
+.pytype/
+
+# Cython debug symbols
+cython_debug/
+
+# Local development
+local_settings.py
+backend/local_settings.py
+
+# Python Frontend (Gradio)
+frontend/__pycache__/
+frontend/*.pyc
+frontend/*.pyo
+frontend/.env
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+
+# Node.js (Future Frontend)
+frontend/node_modules/
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/.npm
+frontend/.eslintcache
+frontend/.next/
+frontend/out/
+frontend/build/
+frontend/dist/
+
+# Frontend environment
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+
+# Frontend testing
+frontend/coverage/
+frontend/.nyc_output
+
+# Frontend IDE
+frontend/.vscode/
+frontend/.idea/
+
+# Frontend OS
+frontend/.DS_Store
+frontend/Thumbs.db
+
+# Project-wide temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Project-wide logs
+*.log
+logs/
+
+# Project-wide environment files
+.env*
+!.env.example
+
+# Project-wide IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Project-wide OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
