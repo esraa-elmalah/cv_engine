@@ -444,28 +444,6 @@ docker-compose up -d
 export CV_ENGINE_SYSTEM__DEBUG=true
 ```
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Make your changes
-4. Add tests for new functionality
-5. Run the test suite (`python run_tests.py`)
-6. Ensure all tests pass
-7. Submit a pull request
-
-### Development Guidelines
-- Follow PEP 8 style guidelines
-- Add type hints to all functions
-- Write comprehensive tests for new features
-- Update documentation for API changes
-- Use conventional commit messages
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-
 ## 🗺️ Roadmap
 
 ### Short Term (Next Release)
